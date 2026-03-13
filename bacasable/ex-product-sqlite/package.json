@@ -1,0 +1,19 @@
+{
+  "name": "ex-product-sqlite",
+  "version": "1.0.0",
+  "description": "Product manager with SQLite storage",
+  "main": "main.js",
+  "scripts": {
+    "rebuild": "electron-rebuild",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "electron": "^28.3.3"
+  },
+  "devDependencies": {
+    "@electron/rebuild": "^4.0.3"
+  }
+}
