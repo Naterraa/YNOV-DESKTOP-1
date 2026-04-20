@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exercice 3.1</title>
+    <style>
+        body,
+        html {
+            background-color: transparent !important;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            color: white;
+            user-select: none;
+        }
+
+        .widget-container {
+            background-color: rgba(50, 50, 50, 0.8);
+            border-radius: 12px;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            -webkit-app-region: drag;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: red;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 25px;
+            height: 25px;
+            font-weight: bold;
+            -webkit-app-region: no-drag;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="widget-container">
+        <button id="btn-close" class="close-btn">X</button>
+        <h2>Mon Widget</h2>
+        <p>Toujours visible !</p>
+    </div>
+
+    <script src="./renderer.js"></script>
+</body>
+
+</html>

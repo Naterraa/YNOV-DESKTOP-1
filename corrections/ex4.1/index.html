@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex 4.1 - Todo List JSON</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Todo List (JSON)</h1>
+        
+        <div class="input-group">
+            <input type="text" id="taskInput" placeholder="Nouvelle tâche...">
+            <button id="addBtn">Ajouter</button>
+        </div>
+
+        <ul id="taskList">
+            <!-- Les tâches apparaîtront ici -->
+        </ul>
+        
+        <div class="actions">
+            <button id="saveBtn" class="primary-btn">Sauvegarder</button>
+            <span id="statusMsg"></span>
+        </div>
+    </div>
+
+    <script src="renderer.js"></script>
+</body>
+</html>
