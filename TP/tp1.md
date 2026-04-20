@@ -10,3 +10,5 @@ L'interface se découpe en trois zones majeures : la colonne des serveurs à l'e
 L'aspect système est crucial. Une icône de tray doit être présente dans la barre des tâches de l'ordinateur pour permettre de restaurer ou de quitter l'application. Vous devez également coder un menu contextuel qui se déclenche au clic droit sur les éléments de l'interface, offrant des options spécifiques à l'élément ciblé.
 
 Le rendu visuel doit être le plus fidèle possible au thème sombre original, avec une attention particulière portée aux arrondis des icônes de serveurs, aux états de survol et aux barres de défilement personnalisées. Le but est de créer une coquille vide mais parfaitement fonctionnelle du point de vue de l'utilisateur qui navigue dans l'arborescence des salons.
+
+Envoyer TP romain.dinel.pro@gmail.com
