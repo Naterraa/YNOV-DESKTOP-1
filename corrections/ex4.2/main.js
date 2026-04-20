@@ -1,9 +1,9 @@
 const { app, BrowserWindow, ipcMain } = require('electron');
 const path = require('node:path');
-const Database = require('better-sqlite3');
+const sqlite3 = require('sqlite3');
 
 const dbPath = path.join(__dirname, 'tasks.db');
-const db = new Database(dbPath);
+const db = new sqlite3.Database(dbPath);
 
 db.exec(`
   CREATE TABLE IF NOT EXISTS tasks (
@@ -13,38 +13,45 @@ db.exec(`
 `);
 
 function getTasks() {
-    try {
-        const stmt = db.prepare('SELECT id, name FROM tasks');
-        return stmt.all();
-    } catch (err) {
-        console.error('Error fetching tasks:', err);
-        return [];
-    }
+    return new Promise((resolve) => {
+        db.all('SELECT id, name FROM tasks', [], (err, rows) => {
+            if (err) {
+                console.error('Error fetching tasks:', err);
+                resolve([]);
+            } else {
+                resolve(rows);
+            }
+        });
+    });
 }
 
 function addTask(name) {
-    try {
-        const stmt = db.prepare('INSERT INTO tasks (name) VALUES (?)');
-        const info = stmt.run(name);
-        return {
-            id: info.lastInsertRowid,
-            name: name
-        };
-    } catch (err) {
-        console.error('Error adding task:', err);
-        return null;
-    }
+    return new Promise((resolve) => {
+        db.run('INSERT INTO tasks (name) VALUES (?)', [name], function(err) {
+            if (err) {
+                console.error('Error adding task:', err);
+                resolve(null);
+            } else {
+                resolve({
+                    id: this.lastID,
+                    name: name
+                });
+            }
+        });
+    });
 }
 
 function deleteTask(id) {
-    try {
-        const stmt = db.prepare('DELETE FROM tasks WHERE id = ?');
-        stmt.run(id);
-        return true;
-    } catch (err) {
-        console.error('Error deleting task:', err);
-        return false;
-    }
+    return new Promise((resolve) => {
+        db.run('DELETE FROM tasks WHERE id = ?', [id], function(err) {
+            if (err) {
+                console.error('Error deleting task:', err);
+                resolve(false);
+            } else {
+                resolve(true);
+            }
+        });
+    });
 }
 
 function createWindow() {
@@ -83,8 +90,8 @@ app.whenReady().then(() => {
 });
 
 app.on('window-all-closed', () => {
-    db.close();
     if (process.platform !== 'darwin') {
         app.quit();
     }
+    db.close();
 });

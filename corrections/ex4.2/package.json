@@ -10,7 +10,9 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "better-sqlite3": "^11.1.2",
     "electron": "^28.3.3"
+  },
+  "dependencies": {
+    "sqlite3": "^6.0.1"
   }
 }
