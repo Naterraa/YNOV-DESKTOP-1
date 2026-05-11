@@ -1,0 +1,69 @@
+<Window x:Class="Partie3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Partie3"
+        mc:Ignorable="d"
+        Title="Todo List - Partie 3 (Code-behind)" Height="500" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- COLONNE GAUCHE -->
+        <Grid Grid.Column="0" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Mes Tâches" FontSize="24" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <!-- ListBox liée à ItemsSource en code-behind (pas besoin de x:Bind ici, on le fait en C#) -->
+            <!-- On lui donne un x:Name pour y accéder dans le .cs -->
+            <ListBox x:Name="TachesListBox" Grid.Row="1" Margin="0,0,0,10" />
+
+            <!-- Formulaire d'ajout de tâche -->
+            <StackPanel Grid.Row="2" Background="#F0F0F0">
+                <TextBlock Text="Nouvelle tâche" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <TextBox x:Name="TitreTextBox" Grid.Column="0" Margin="0,0,5,0" Text="Titre de la tâche..."/>
+                    <ComboBox x:Name="PrioriteComboBox" Grid.Column="1" Margin="0,0,5,0" SelectedIndex="0">
+                        <ComboBoxItem Content="Basse"/>
+                        <ComboBoxItem Content="Normale"/>
+                        <ComboBoxItem Content="Haute"/>
+                    </ComboBox>
+                    <TextBox x:Name="CategorieTextBox" Grid.Column="2" Margin="0,0,5,0" Text="Catégorie..."/>
+                    <!-- On ajoute un événement Click au bouton -->
+                    <Button Grid.Column="3" Content="Ajouter" Padding="10,0" Click="AjouterTache_Click"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+
+        <Border Grid.Column="1" BorderBrush="#DDDDDD" BorderThickness="1,0,0,0" Margin="0,10"/>
+
+        <!-- COLONNE DROITE -->
+        <Grid Grid.Column="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Objectif de la semaine" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" TextWrapping="Wrap"/>
+            
+            <TextBox x:Name="ObjectifTextBox" Grid.Row="1" Text="Avancer au maximum sur mes projets personnels." TextWrapping="Wrap" AcceptsReturn="True" Margin="0,0,0,10" VerticalScrollBarVisibility="Auto"/>
+            <Button Grid.Row="2" Content="Enregistrer l'objectif" Padding="0,5" Click="EnregistrerObjectif_Click"/>
+        </Grid>
+    </Grid>
+</Window>
