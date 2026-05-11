@@ -1,0 +1,105 @@
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\bin\Debug\net8.0-windows\Application wpf.exe
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\bin\Debug\net8.0-windows\Application wpf.deps.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\bin\Debug\net8.0-windows\Application wpf.runtimeconfig.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\bin\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\bin\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.lref
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.g.resources
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.AssemblyInfoInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.AssemblyInfo.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.csproj.CoreCompileInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.sourcelink.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\refint\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\Application wpf.genruntimeconfig.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\Application wpf\obj\Debug\net8.0-windows\ref\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\bin\Debug\net8.0-windows\Application wpf.exe
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\bin\Debug\net8.0-windows\Application wpf.deps.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\bin\Debug\net8.0-windows\Application wpf.runtimeconfig.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\bin\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\bin\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.lref
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.g.resources
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.AssemblyInfoInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.AssemblyInfo.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.csproj.CoreCompileInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.sourcelink.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\refint\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\Application wpf.genruntimeconfig.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-1\obj\Debug\net8.0-windows\ref\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\bin\Debug\net8.0-windows\Application wpf.exe
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\bin\Debug\net8.0-windows\Application wpf.deps.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\bin\Debug\net8.0-windows\Application wpf.runtimeconfig.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\bin\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\bin\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.lref
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.g.resources
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.AssemblyInfoInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.AssemblyInfo.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.csproj.CoreCompileInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.sourcelink.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\refint\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\Application wpf.genruntimeconfig.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-2\obj\Debug\net8.0-windows\ref\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.exe
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.deps.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.runtimeconfig.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.lref
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.g.resources
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.AssemblyInfoInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.AssemblyInfo.cs
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.csproj.CoreCompileInputs.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.sourcelink.json
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\refint\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.genruntimeconfig.cache
+C:\Users\rddin\Desktop\YNOV\YNOV-DESKTOP-CORRECTION-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\ref\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.exe
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.deps.json
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.runtimeconfig.json
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\bin\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.cache
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf_MarkupCompile.lref
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.g.resources
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.AssemblyInfoInputs.cache
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.AssemblyInfo.cs
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.csproj.CoreCompileInputs.cache
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.sourcelink.json
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\refint\Application wpf.dll
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.pdb
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\Application wpf.genruntimeconfig.cache
+C:\Users\rddin\Desktop\YNOV\DESKTOP\GIT\YNOV-DESKTOP-1\WPF\ex-fil-rouge\partie-3\obj\Debug\net8.0-windows\ref\Application wpf.dll
