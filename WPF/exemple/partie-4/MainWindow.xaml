@@ -1,0 +1,86 @@
+<Window x:Class="Partie4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Partie4"
+        xmlns:vm="clr-namespace:Partie4.ViewModels"
+        mc:Ignorable="d"
+        Title="Todo List - Partie 4 (MVVM)" Height="500" Width="900">
+    
+    <!-- On associe le DataContext de la fenêtre à notre MainViewModel -->
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- COLONNE GAUCHE -->
+        <Grid Grid.Column="0" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Mes Tâches" FontSize="24" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <!-- On lie la liste de tâches à ObservableCollection du ViewModel via Binding -->
+            <ListBox Grid.Row="1" Margin="0,0,0,10" ItemsSource="{Binding Taches}" />
+
+            <StackPanel Grid.Row="2" Background="#F0F0F0">
+                <TextBlock Text="Nouvelle tâche" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <!-- UpdateSourceTrigger=PropertyChanged permet de mettre à jour le ViewModel à chaque lettre tapée -->
+                    <TextBox Grid.Column="0" Margin="0,0,5,0" 
+                             Text="{Binding NouvelleTacheTitre, UpdateSourceTrigger=PropertyChanged}"/>
+                    
+                    <ComboBox Grid.Column="1" Margin="0,0,5,0" 
+                              SelectedValuePath="Content" 
+                              SelectedValue="{Binding NouvelleTachePriorite}">
+                        <ComboBoxItem Content="Basse"/>
+                        <ComboBoxItem Content="Normale"/>
+                        <ComboBoxItem Content="Haute"/>
+                    </ComboBox>
+                    
+                    <TextBox Grid.Column="2" Margin="0,0,5,0" 
+                             Text="{Binding NouvelleTacheCategorie, UpdateSourceTrigger=PropertyChanged}"/>
+                    
+                    <!-- On lie le clic du bouton à une Commande plutôt qu'à un événement Code-behind -->
+                    <Button Grid.Column="3" Content="Ajouter" Padding="10,0" 
+                            Command="{Binding AjouterTacheCommand}"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+
+        <Border Grid.Column="1" BorderBrush="#DDDDDD" BorderThickness="1,0,0,0" Margin="0,10"/>
+
+        <!-- COLONNE DROITE -->
+        <Grid Grid.Column="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Objectif de la semaine" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" TextWrapping="Wrap"/>
+            
+            <TextBox Grid.Row="1" TextWrapping="Wrap" AcceptsReturn="True" Margin="0,0,0,10" VerticalScrollBarVisibility="Auto"
+                     Text="{Binding ObjectifSemaine, UpdateSourceTrigger=PropertyChanged}"/>
+            
+            <Button Grid.Row="2" Content="Enregistrer l'objectif" Padding="0,5" 
+                    Command="{Binding EnregistrerObjectifCommand}"/>
+        </Grid>
+    </Grid>
+</Window>
