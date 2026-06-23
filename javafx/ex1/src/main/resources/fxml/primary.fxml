@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<StackPane prefHeight="450.0" prefWidth="800.0" style="-fx-background-color: radial-gradient(center 50% 50%, radius 75%, #1e293b 0%, #0f172a 100%);" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ex1.FXMLController">
+    <children>
+        <Label text="Romain Dinel" textFill="#f8fafc">
+            <font>
+                <Font name="Segoe UI Bold" size="36.0" />
+            </font>
+        </Label>
+    </children>
+</StackPane>
