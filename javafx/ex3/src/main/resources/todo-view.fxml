@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox alignment="TOP_CENTER" prefHeight="450.0" prefWidth="800.0" spacing="20.0" 
+      styleClass="root-pane" stylesheets="@styles/Styles.css" 
+      xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" 
+      fx:controller="com.ex3.TodoController">
+    
+    <padding>
+        <Insets bottom="30.0" left="40.0" right="40.0" top="30.0" />
+    </padding>
+
+    <children>
+        <!-- Titre de l'application -->
+        <Text text="Ma Liste de Tâches" styleClass="title-text" />
+        
+        <!-- Formulaire d'ajout -->
+        <HBox alignment="CENTER" spacing="15.0" styleClass="input-container">
+            <children>
+                <TextField fx:id="taskInput" HBox.hgrow="ALWAYS" promptText="Saisir une nouvelle tâche..." styleClass="task-field" onAction="#handleAddTask" />
+                <Button onAction="#handleAddTask" text="Ajouter à la liste" styleClass="add-button" />
+            </children>
+        </HBox>
+
+        <!-- Liste visuelle des tâches -->
+        <ListView fx:id="listeNotesVisuelle" VBox.vgrow="ALWAYS" styleClass="todo-list-view" />
+    </children>
+</VBox>
